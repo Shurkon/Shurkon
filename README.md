@@ -12,4 +12,4 @@ Repositories where I share some of my notes:
 - [My React Native Notes](https://github.com/Shurkon/My-React-Native-Notes)
 
 # Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shurkon&theme=dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) |
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shurkon&theme=dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
