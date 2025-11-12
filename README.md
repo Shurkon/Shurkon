@@ -23,7 +23,5 @@ Projects I Stole (but legally 😎)
 # My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=arch,debian,bash,linux,c,discord,docker,fastapi,py,mongodb,git,github,kali,latex,md,neovim,vscode)](https://skillicons.dev)
 
-# 🏆 Certs (Coming soon)
-
 # Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shurkon&theme=dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
